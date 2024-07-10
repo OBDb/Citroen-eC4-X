@@ -2,6 +2,6 @@
 { "hdr": "6B4", "rax": "694", "cmd": {"22": "D410"}, "freq": 1,
   "signals": [
     {"id": "EC4X_HVBAT_SOC", "path": "Battery", "fmt": { "len": 16, "max": 100, "div": 512, "unit": "percent" }, "name": "HV battery charge", "suggestedMetric": "stateOfCharge"}
-  ]},
+  ]}
 ]
 }
